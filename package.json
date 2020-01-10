@@ -23,14 +23,14 @@
   },
   "homepage": "https://github.com/e7a894/nuxt-template#readme",
   "dependencies": {
-    "@nuxt/typescript-runtime": "^0.3.3",
+    "@nuxt/typescript-runtime": "^0.3.6",
     "nuxt": "^2.11.0"
   },
   "devDependencies": {
-    "@nuxt/typescript-build": "^0.5.2",
+    "@nuxt/typescript-build": "^0.5.5",
     "@nuxtjs/eslint-config-typescript": "^1.0.0",
     "eslint": "^6.8.0",
-    "eslint-config-prettier": "^6.7.0",
+    "eslint-config-prettier": "^6.9.0",
     "eslint-plugin-prettier": "^3.1.2",
     "prettier": "^1.19.1"
   },
